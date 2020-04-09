@@ -1,0 +1,15 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "full_name": "Firman Dwi Prasetyo",
+      "user_name": "Firman",
+      "email": "firman@gmail.com",
+      "phone_number": "081111111111"
+    },
+    {
+      "full_name": "acar",
+      "id": 2
+    }
+  ]
+}
